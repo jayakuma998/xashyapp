@@ -1,1 +1,0 @@
-print " creating logout page"
